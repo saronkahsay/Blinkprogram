@@ -6,7 +6,7 @@ I denna laboration testade jag att ladda upp och köra det klassiska Blink-progr
 | Verktyg |  Användning |
 |----------|----------|
 | Plusivo Kit     | Kurskit     |
-|USB- Kabel|uppkoppling & Uppladdning |
+|USB- Kabel|Uppkoppling & Uppladdning |
 | ESP8266     | Mikrokontroller     |
 |Inbyggd LED på moderkortet|Blink-test|
 | Laptop + Arduino IDE    | Programmering    |
