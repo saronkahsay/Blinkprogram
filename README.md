@@ -37,5 +37,8 @@ Programmet komplieras ✅ och laddas upp ➡️
 #### 6. Resultat 
 Lampan blinkar 1 sekund ON, 1 sekund OFF. 
 
+## Kodexempel för Blinkprogrammet
+<img width="674" height="357" alt="Skärmavbild 2025-11-26 kl  20 03 14" src="https://github.com/user-attachments/assets/51371d14-38ef-468e-a163-3e9fc0e6fd46" />
+
 
 
