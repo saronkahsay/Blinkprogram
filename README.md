@@ -1,6 +1,7 @@
 # Blinkprogram ESP8266
 ## Översikt 
 I denna laboration testade jag att ladda upp och köra det klassiska Blink-programmet på en NodeMCU (ESP8266). Målet var att förstå hur man styr en digital port och får en LED att blinka med hjälp av Arduino IDE.
+Koden är baserad på Arduino-exemplet Blink
 
 ### Verktyg som behövs
 | Verktyg |  Användning |
@@ -10,6 +11,30 @@ I denna laboration testade jag att ladda upp och köra det klassiska Blink-progr
 | ESP8266     | Mikrokontroller     |
 |Inbyggd LED på moderkortet|Blink-test|
 | Laptop + Arduino IDE    | Programmering    |
+
+
+### Bild på Plusivo Kit
+
+![image](https://github.com/user-attachments/assets/9f16f223-d096-431c-b5bf-b1cd2ff38e69)
+
+## Steg för steg
+#### 1. Öppna Arduino IDE
+Hämta den färdiga `Blink - Exempel`
+
+`File --> Examples --> 01.Basics --> Blink`
+
+#### 2. Välj port och board 
+`Tools --> Board --> NodeMCU 1.0 (ESP8266)`
+`Tools --> Port --> (Din USB-port)`
+
+#### 4. Koppla in NodeMCU 
+Använd USB-kabeln från Plusivo-kitet.
+
+#### 5. Ladda upp
+Programmet komplieras och laddas upp
+
+#### 6. Resultat 
+Lampan blinkar 1 sekund ON, 1 sekund OFF. 
 
 
 
