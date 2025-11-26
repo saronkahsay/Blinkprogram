@@ -24,7 +24,7 @@ Hämta den färdiga `Blink - Exempel`
 `File --> Examples --> 01.Basics --> Blink`
 
 #### 2. Välj Board och Port 
-`Tools --> Board --> NodeMCU 1.0 (ESP8266)`
+`Tools --> Board --> Generic ESP8266 Module`
 
 `Tools --> Port --> (Din USB-port)`
 
