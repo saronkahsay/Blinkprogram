@@ -32,7 +32,7 @@ Hämta den färdiga `Blink - Exempel`
 Använd USB-kabeln från Plusivo-kitet.
 
 #### 5. Ladda upp
-Programmet komplieras och laddas upp
+Programmet komplieras ✅ och laddas upp ➡️
 
 #### 6. Resultat 
 Lampan blinkar 1 sekund ON, 1 sekund OFF. 
