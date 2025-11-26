@@ -42,3 +42,12 @@ Lampan blinkar 1 sekund ON, 1 sekund OFF.
 
 
 
+## Mitt försök :) 
+
+![IMG_4921](https://github.com/user-attachments/assets/7170cbca-3ee7-4ed4-b893-8159ae246e5f)
+
+
+
+![IMG_4920](https://github.com/user-attachments/assets/f0f673a7-86f1-4d5d-bd1a-3740972a442b)
+
+
