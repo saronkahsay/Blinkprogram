@@ -28,6 +28,11 @@ Hämta den färdiga ***Blink - Exempel***
 
 `Tools --> Port --> (Din USB-port)`
 
+#### 3. Kopiera in URL
+Klicka på **Arduino IDE** uppe till höger på Mac. Klicka sedan på **prefrences** och klistra in koden *Additional boards manager URLs*
+
+`https://arduino.esp8266.com/stable/package_esp8266com_index.json`
+
 #### 4. Koppla in NodeMCU 
 Använd USB-kabeln från Plusivo-kitet.
 
