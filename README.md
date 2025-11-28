@@ -24,24 +24,30 @@ Klicka på **Arduino IDE** uppe till vänster på Mac. Klicka sedan på **prefre
 
 `https://arduino.esp8266.com/stable/package_esp8266com_index.json`
 
-#### 2. Välj Board och Port 
+
+#### 2. installera ESP8266 på Arduino IDE
+<img width="276" height="299" alt="Skärmavbild 2025-11-28 kl  11 13 10" src="https://github.com/user-attachments/assets/22ff5bac-da77-437e-aa8b-92cb04e0b95d" />
+
+
+
+#### 3. Välj Board och Port 
 `Tools --> Board --> Generic ESP8266 Module`
 
 `Tools --> Port --> (Din USB-port)`
 
-#### 3. Öppna Arduino IDE
+#### 4. Öppna Arduino IDE
 Hämta den färdiga ***Blink - Exempel***
 
 `File --> Examples --> 01.Basics --> Blink`
 
 
-#### 4. Koppla in NodeMCU 
+#### 5. Koppla in NodeMCU 
 Använd USB-kabeln från Plusivo-kitet.
 
-#### 5. Ladda upp
+#### 6. Ladda upp
 Programmet komplieras ✅ och laddas upp ➡️
 
-#### 6. Resultat 
+#### 7. Resultat 
 Lampan blinkar 1 sekund ON, 1 sekund OFF. 
 
 # Kodexempel för Blinkprogrammet
