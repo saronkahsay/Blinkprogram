@@ -20,7 +20,7 @@ Koden är baserad på Arduino-exemplet Blink
 # Steg för steg
 
 #### 1. Kopiera in URL
-Klicka på **Arduino IDE** uppe till höger på Mac. Klicka sedan på **prefrences** och klistra in koden i *Additional boards manager URLs*
+Klicka på **Arduino IDE** uppe till vänster på Mac. Klicka sedan på **prefrences** och klistra in koden i *Additional boards manager URLs*
 
 `https://arduino.esp8266.com/stable/package_esp8266com_index.json`
 
