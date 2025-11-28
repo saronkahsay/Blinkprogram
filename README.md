@@ -18,20 +18,21 @@ Koden är baserad på Arduino-exemplet Blink
 ![image](https://github.com/user-attachments/assets/9f16f223-d096-431c-b5bf-b1cd2ff38e69)
 
 # Steg för steg
-#### 1. Öppna Arduino IDE
-Hämta den färdiga ***Blink - Exempel***
 
-`File --> Examples --> 01.Basics --> Blink`
-
-#### 2. Kopiera in URL
+#### 1. Kopiera in URL
 Klicka på **Arduino IDE** uppe till höger på Mac. Klicka sedan på **prefrences** och klistra in koden i *Additional boards manager URLs*
 
 `https://arduino.esp8266.com/stable/package_esp8266com_index.json`
 
-#### 3. Välj Board och Port 
+#### 2. Välj Board och Port 
 `Tools --> Board --> Generic ESP8266 Module`
 
 `Tools --> Port --> (Din USB-port)`
+
+#### 3. Öppna Arduino IDE
+Hämta den färdiga ***Blink - Exempel***
+
+`File --> Examples --> 01.Basics --> Blink`
 
 
 #### 4. Koppla in NodeMCU 
